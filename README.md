@@ -1,1 +1,2 @@
 # Impact-of-Promo-Code-Usage-on-Purchase-Amounts-Analysis
+This report investigates the causal relationship between the usage of promo codes and the purchase amounts in USD. By applying descriptive statistics and predictive modeling, we aim to provide insights into the effectiveness of promo codes as a sales strategy and their potential impact on customer purchasing behavior. This analysis will help determine the effectiveness of promo codes in potentially increasing the average order value.
